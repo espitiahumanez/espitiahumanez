@@ -16,6 +16,11 @@
 
 - 📫 How to reach me **wfespitia@sena.edu.co | wfespitia9@misena.edu.co**
 
+<p>
+Currently I am mainly dedicated to consulting professional issues in technologies of the 4.0 revolution (Artificial Intelligence, Business Intelligence, Big Data, Data Analytics, among others). In addition to that, and to a lesser extent, I am a training tutor in software development in the programs offered by MinTic and taught by the University of Caldas. Occasionally, I create content (Videos and repositories) related to software development, data science and 4.0 technologies
+
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wilsonespitia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilson espitia" height="30" width="40" /></a>
