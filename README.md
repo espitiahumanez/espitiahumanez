@@ -1,4 +1,4 @@
-<img src="https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg" class="d-block w-100" alt="...">
+<img src="https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg" class="d-block w-100" alt="...">
 <h1 align="center">Hi 👋, I'm Wilson Espitia Humanez</h1>
 <h3 align="center">Technical expert articulator in artificial intelligence from Medellín, Colombia.</h3>
 
