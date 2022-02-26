@@ -19,6 +19,8 @@
 <p>
 Currently I am mainly dedicated to consulting professional issues in technologies of the 4.0 revolution (Artificial Intelligence, Business Intelligence, Big Data, Data Analytics, among others). In addition to that, and to a lesser extent, I am a training tutor in software development in the programs offered by MinTic and taught by the University of Caldas. Occasionally, I create content (Videos and repositories) related to software development, data science and 4.0 technologies
 
+As for me, as a person, being self-taught, wanting to be constantly learning defines me. I love technology and research, so I lean professionally as a Systems Engineer, I like to share knowledge, make a good transfer of it, supported by agile innovation methodologies.
+ 
 </p>
 
 <h3 align="left">Connect with me:</h3>
