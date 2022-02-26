@@ -3,7 +3,7 @@
 <h3 align="center">Technical expert articulator in artificial intelligence from Medellín, Colombia.</h3>
 
 [![Linkedin: Wilson Espitia](https://img.shields.io/badge/-WilsonEspitia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonespitia/)](https://www.linkedin.com/in/wilsonespitia/)
-[![GitHub wespitia](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/wespitia9)
+[![GitHub wespitia](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/espitiahumanez)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/UCQyHrZmLHzi3JyJMv6DOwqQ?style=social)
 <!--![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)-->
